@@ -1,0 +1,21 @@
+{
+	"name": "uploadtocdn",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"bin": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"csv-parse": "^4.12.0",
+		"csv-writer": "^1.6.0",
+		"lodash": "^4.17.20",
+		"request": "^2.88.2"
+	},
+	"devDependencies": {
+		"eslint": "^7.12.1"
+	}
+}
